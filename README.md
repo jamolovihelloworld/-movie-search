@@ -1,2 +1,3 @@
-# -movie-search
- movie-search
+# Movie Search
+
+Описание проекта movie-search.
